@@ -1,1 +1,1 @@
- export const botToken = "NjMxNzc1MjgyOTczMzc2NTIy.XZ7-Cg.WOikO10IuGE1zeWk3bPl_hgTLrQ"
+ export const botToken = ""
